@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "path": "^0.12.7"
+  },
+  "name": "nginx-excersice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "dotenv": "^17.2.2"
+  }
+}
